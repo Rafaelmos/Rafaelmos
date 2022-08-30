@@ -1,5 +1,5 @@
 ## Olá me chamo Rafael Moura 👋
-### Estudo Bacharelado de Sistemas de Informação na UFRPE, minha é ser um desenvolvedor Full stacks, atualmente estou estudando Python, Flask e SQL.
+### Estou cursando Bacharelado de Sistemas de Informação na UFRPE, minha é ser um desenvolvedor Full stacks, atualmente estou estudando Python, Flask e SQL.
 <a href="https://github.com/rafaelmos"> 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
