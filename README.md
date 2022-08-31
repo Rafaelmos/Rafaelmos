@@ -23,6 +23,10 @@
   <img height="30em" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <!--<img height="30em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>-->
   
+- 📝 Projetos: 
+
+  - [API de uma agenda para planejamento para o estudo](https://github.com/Rafaelmos/studyplan-API)
+  
 </div>
 
 
