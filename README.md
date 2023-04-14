@@ -26,6 +26,8 @@
 - 📝 Projetos: 
 
   - [API de uma agenda para planejamento para o estudo](https://github.com/Rafaelmos/studyplan-API)
+  - [APP Mobile de Nutrição](https://github.com/Rafaelmos/Projeto-Mobile-MacroNutris)
+  - [Datamart Benefícios Emitidos pelo INSS](https://github.com/Rafaelmos/datamart-beneficios-emitidos-inss)
   
 </div>
 
