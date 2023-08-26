@@ -2,7 +2,7 @@
 ### Estou cursando Bacharelado de Sistemas de Informação na UFRPE, sou desenvolvedor Full stacks, atualmente estou estudando Python na área de Inteligencia Artifical.
 <a href="https://github.com/rafaelmos"> 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmos&show_icons=false&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmos&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>  <br>   <br></a>
   
